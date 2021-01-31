@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/siteleaf-clone/static/css/main.bd3d7d84.chunk.css",
-    "main.js": "/siteleaf-clone/static/js/main.0ca6cee6.chunk.js",
-    "main.js.map": "/siteleaf-clone/static/js/main.0ca6cee6.chunk.js.map",
-    "runtime-main.js": "/siteleaf-clone/static/js/runtime-main.551b910d.js",
-    "runtime-main.js.map": "/siteleaf-clone/static/js/runtime-main.551b910d.js.map",
-    "static/js/2.cd7bd6cd.chunk.js": "/siteleaf-clone/static/js/2.cd7bd6cd.chunk.js",
-    "static/js/2.cd7bd6cd.chunk.js.map": "/siteleaf-clone/static/js/2.cd7bd6cd.chunk.js.map",
-    "static/js/3.767b2976.chunk.js": "/siteleaf-clone/static/js/3.767b2976.chunk.js",
-    "static/js/3.767b2976.chunk.js.map": "/siteleaf-clone/static/js/3.767b2976.chunk.js.map",
+    "main.css": "/siteleaf-clone/static/css/main.996da28f.chunk.css",
+    "main.js": "/siteleaf-clone/static/js/main.0d11b7e7.chunk.js",
+    "main.js.map": "/siteleaf-clone/static/js/main.0d11b7e7.chunk.js.map",
+    "runtime-main.js": "/siteleaf-clone/static/js/runtime-main.49bddc9c.js",
+    "runtime-main.js.map": "/siteleaf-clone/static/js/runtime-main.49bddc9c.js.map",
+    "static/css/2.658248ec.chunk.css": "/siteleaf-clone/static/css/2.658248ec.chunk.css",
+    "static/js/2.55ce2276.chunk.js": "/siteleaf-clone/static/js/2.55ce2276.chunk.js",
+    "static/js/2.55ce2276.chunk.js.map": "/siteleaf-clone/static/js/2.55ce2276.chunk.js.map",
+    "static/js/3.bed91ad8.chunk.js": "/siteleaf-clone/static/js/3.bed91ad8.chunk.js",
+    "static/js/3.bed91ad8.chunk.js.map": "/siteleaf-clone/static/js/3.bed91ad8.chunk.js.map",
     "index.html": "/siteleaf-clone/index.html",
-    "static/css/main.bd3d7d84.chunk.css.map": "/siteleaf-clone/static/css/main.bd3d7d84.chunk.css.map",
-    "static/js/2.cd7bd6cd.chunk.js.LICENSE.txt": "/siteleaf-clone/static/js/2.cd7bd6cd.chunk.js.LICENSE.txt",
+    "static/css/2.658248ec.chunk.css.map": "/siteleaf-clone/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.996da28f.chunk.css.map": "/siteleaf-clone/static/css/main.996da28f.chunk.css.map",
+    "static/js/2.55ce2276.chunk.js.LICENSE.txt": "/siteleaf-clone/static/js/2.55ce2276.chunk.js.LICENSE.txt",
     "static/media/home__develop--github.04380a73.jpg": "/siteleaf-clone/static/media/home__develop--github.04380a73.jpg",
     "static/media/home__develop--jekyll.e97a6824.jpg": "/siteleaf-clone/static/media/home__develop--jekyll.e97a6824.jpg",
     "static/media/home__free.738f98f9.svg": "/siteleaf-clone/static/media/home__free.738f98f9.svg",
@@ -26,9 +28,10 @@
     "static/media/logos--open-source.ee4634d3.svg": "/siteleaf-clone/static/media/logos--open-source.ee4634d3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.551b910d.js",
-    "static/js/2.cd7bd6cd.chunk.js",
-    "static/css/main.bd3d7d84.chunk.css",
-    "static/js/main.0ca6cee6.chunk.js"
+    "static/js/runtime-main.49bddc9c.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.55ce2276.chunk.js",
+    "static/css/main.996da28f.chunk.css",
+    "static/js/main.0d11b7e7.chunk.js"
   ]
 }
