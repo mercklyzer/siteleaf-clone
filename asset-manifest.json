@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/siteleaf-clone/static/css/main.bd3d7d84.chunk.css",
+    "main.js": "/siteleaf-clone/static/js/main.0ca6cee6.chunk.js",
+    "main.js.map": "/siteleaf-clone/static/js/main.0ca6cee6.chunk.js.map",
+    "runtime-main.js": "/siteleaf-clone/static/js/runtime-main.551b910d.js",
+    "runtime-main.js.map": "/siteleaf-clone/static/js/runtime-main.551b910d.js.map",
+    "static/js/2.cd7bd6cd.chunk.js": "/siteleaf-clone/static/js/2.cd7bd6cd.chunk.js",
+    "static/js/2.cd7bd6cd.chunk.js.map": "/siteleaf-clone/static/js/2.cd7bd6cd.chunk.js.map",
+    "static/js/3.767b2976.chunk.js": "/siteleaf-clone/static/js/3.767b2976.chunk.js",
+    "static/js/3.767b2976.chunk.js.map": "/siteleaf-clone/static/js/3.767b2976.chunk.js.map",
+    "index.html": "/siteleaf-clone/index.html",
+    "static/css/main.bd3d7d84.chunk.css.map": "/siteleaf-clone/static/css/main.bd3d7d84.chunk.css.map",
+    "static/js/2.cd7bd6cd.chunk.js.LICENSE.txt": "/siteleaf-clone/static/js/2.cd7bd6cd.chunk.js.LICENSE.txt",
+    "static/media/home__develop--github.04380a73.jpg": "/siteleaf-clone/static/media/home__develop--github.04380a73.jpg",
+    "static/media/home__develop--jekyll.e97a6824.jpg": "/siteleaf-clone/static/media/home__develop--jekyll.e97a6824.jpg",
+    "static/media/home__free.738f98f9.svg": "/siteleaf-clone/static/media/home__free.738f98f9.svg",
+    "static/media/home__intro--fox.41f7d35c.svg": "/siteleaf-clone/static/media/home__intro--fox.41f7d35c.svg",
+    "static/media/home__intro--owl.447f2d15.svg": "/siteleaf-clone/static/media/home__intro--owl.447f2d15.svg",
+    "static/media/home__intro--raccoon.6c64e72d.svg": "/siteleaf-clone/static/media/home__intro--raccoon.6c64e72d.svg",
+    "static/media/home__manage--collaborate.88a4fd00.jpg": "/siteleaf-clone/static/media/home__manage--collaborate.88a4fd00.jpg",
+    "static/media/home__manage--customize.c259925c.jpg": "/siteleaf-clone/static/media/home__manage--customize.c259925c.jpg",
+    "static/media/home__manage--edit.167c5c04.jpg": "/siteleaf-clone/static/media/home__manage--edit.167c5c04.jpg",
+    "static/media/home__manage--preview.c4315d91.jpg": "/siteleaf-clone/static/media/home__manage--preview.c4315d91.jpg",
+    "static/media/logo.07d8eb41.svg": "/siteleaf-clone/static/media/logo.07d8eb41.svg",
+    "static/media/logos--open-source.ee4634d3.svg": "/siteleaf-clone/static/media/logos--open-source.ee4634d3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551b910d.js",
+    "static/js/2.cd7bd6cd.chunk.js",
+    "static/css/main.bd3d7d84.chunk.css",
+    "static/js/main.0ca6cee6.chunk.js"
+  ]
+}
