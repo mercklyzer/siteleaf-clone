@@ -1,0 +1,73 @@
+.my-navbar{
+    background-color: #fbbc09;
+    overflow: hidden;
+    width: 100%;
+    padding: 20px 40px;
+    position: relative;
+}
+
+.my-brand{
+    float: left;
+}
+
+.my-button{
+    border: none;
+    outline:none;
+    background-color: transparent;
+    text-align:center;
+    padding: 6px 16px;
+    display: inline;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.my-button:hover{
+    color: rgb(81, 83, 83)
+}
+
+.my-navbar-list-item{
+    margin: 10px 10px;
+    float: right;
+}
+
+.sign-up{
+    background-color: rgba(141,207,63,1);
+    color: white;
+    border-radius: 4px;
+}
+
+.sign-up:hover{
+    background-color: rgb(107, 153, 54);
+    color: white;
+}
+
+.my-navbar-hamburger{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 10px 10px;
+    display: none;
+}
+
+@media screen and (max-width: 768px){
+    .my-brand.my-button{
+        display: block;
+        /* border: 2px solid blue; */
+        float: none;
+    }
+
+    .my-navbar-list-item.my-button{
+        display: none;
+    }
+    .my-navbar-hamburger{
+        display: block;
+    }
+
+    .my-navbar-list.responsive > .my-navbar-list-item.my-button{
+        /* border: 2px solid red; */
+        display:block;
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+}

@@ -1,0 +1,24 @@
+.section-text-button{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+}
+
+.section-text-button:hover{
+    cursor: pointer;
+}
+
+.section-text-button.active{
+    background-color: #f7f8fa;
+}
+
+.section-text-button-title{
+    display: block;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.section-text-button-title.active{
+    color:#16a0f3;
+}
